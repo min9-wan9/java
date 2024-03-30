@@ -1,0 +1,2 @@
+1;Laptop;Electronic;100
+2;Keyboard;Electronic;20
